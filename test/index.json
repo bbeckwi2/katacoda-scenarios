@@ -19,7 +19,7 @@
     "assets": {
       "client": [
         {
-          "file": "ExamplseCommand.bash",
+          "file": "ExampleCommand.bash",
           "target": "~/",
           "chmod": "+x"
         },
