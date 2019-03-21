@@ -20,12 +20,12 @@
       "client": [
         {
           "file": "ExampleCommand.bash",
-          "target": "~/",
+          "target": "/",
           "chmod": "+x"
         },
         {
           "file": "ReallyReallyReallyLongExampleFileNameToShowTheUsefulnessOfTheTabKey.bash",
-          "target": "~/things/",
+          "target": "/things/",
           "chmod": "+x"
         }
       ]
