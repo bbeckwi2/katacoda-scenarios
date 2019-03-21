@@ -17,15 +17,15 @@
       }
     ],
     "assets": {
-      "host01": [
+      "client": [
         {
           "file": "ExampleCommand.bash",
-          "target": "/",
+          "target": "/home/",
           "chmod": "+x"
         },
         {
           "file": "ReallyReallyReallyLongExampleFileNameToShowTheUsefulnessOfTheTabKey.bash",
-          "target": "/things/",
+          "target": "/home/things/",
           "chmod": "+x"
         }
       ]
