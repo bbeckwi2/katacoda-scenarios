@@ -16,12 +16,6 @@
         "text": "step3.md"
       }
     ],
-    "intro": {
-      "text": "intro.md"
-    },
-    "finish": {
-      "text": "finish.md"
-    },
     "assets": {
       "client": [
         {
@@ -31,10 +25,16 @@
         },
         {
           "file": "ReallyReallyReallyLongExampleFileNameToShowTheUsefulnessOfTheTabKey.bash",
-          "target": "~/things",
+          "target": "~/things/",
           "chmod": "+x"
         }
       ]
+    },
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
     }
   },
   "environment": {
